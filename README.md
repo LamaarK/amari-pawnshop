@@ -1,4 +1,5 @@
 # amari-pawnshop (QB-CORE]
+![Amari Pawnshop Logo](https://github.com/LamaarK/amari-pawnshop/assets/65554339/ac3bc668-fca8-483c-bac0-379371dc3340)
 User Owned Pawnshop
 **Discord https://discord.gg/tEyueSVbFF**
 
